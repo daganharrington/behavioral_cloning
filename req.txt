@@ -1,0 +1,16 @@
+numpy
+matplotlib
+jupyter
+pillow
+scikit-learn
+scikit-image
+scipy
+h5py
+eventlet
+flask-socketio
+seaborn
+pandas
+imageio==2.1.2
+moviepy
+tensorflow==0.12.1
+keras==1.2.1
